@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&display=swap");
+
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a,
+a:hover,
+a:focus {
+  color: unset;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1220px;
+  margin: 0px auto;
+}
